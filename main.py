@@ -1,3 +1,11 @@
+'''
+ * @license
+ * Copyright Bruno Henrique Meyer. All Rights Reserved.
+ *
+ * Use of this source code is governed by an MIT-style license that can be
+ * found in the LICENSE file at
+ * https://github.com/BrunoMeyer/gene-selection-to-classification/blob/master/LICENSE
+'''
 from __future__ import print_function
 from __future__ import division
 

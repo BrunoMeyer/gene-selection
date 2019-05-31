@@ -1,4 +1,4 @@
-# Gene Selection to Classification with Machine Learning Techniques
+# Gene Selection with Machine Learning Techniques
 This project is an model to compare differents methods of feature selection in the context of microarray gene expression
 
 
